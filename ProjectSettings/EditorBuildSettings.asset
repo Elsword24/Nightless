@@ -6,7 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/FirstFloor.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FirstFloor_Encounter.unity
+    guid: 988fd2e3b9ebb4b4fb62a5fe3c7e13fd
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings: {fileID: 11400000, guid: faf4ddf3c90d98343965e983e949deec, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 1bf29feebaf56834597457f942fef5c9, type: 3}
